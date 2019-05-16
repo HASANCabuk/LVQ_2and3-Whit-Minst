@@ -1,0 +1,10 @@
+C:\Users\HASAN\Desktop\2019SON\Yapay Zeka\LVQ_ WITH_MNIST\LVQ_ WITH_MNIST\bin\Debug\LVQ_ WITH_MNIST.exe.config
+C:\Users\HASAN\Desktop\2019SON\Yapay Zeka\LVQ_ WITH_MNIST\LVQ_ WITH_MNIST\bin\Debug\LVQ_ WITH_MNIST.exe
+C:\Users\HASAN\Desktop\2019SON\Yapay Zeka\LVQ_ WITH_MNIST\LVQ_ WITH_MNIST\bin\Debug\LVQ_ WITH_MNIST.pdb
+C:\Users\HASAN\Desktop\2019SON\Yapay Zeka\LVQ_ WITH_MNIST\LVQ_ WITH_MNIST\obj\Debug\LVQ_ WITH_MNIST.csprojAssemblyReference.cache
+C:\Users\HASAN\Desktop\2019SON\Yapay Zeka\LVQ_ WITH_MNIST\LVQ_ WITH_MNIST\obj\Debug\LVQ__WITH_MNIST.Properties.Resources.resources
+C:\Users\HASAN\Desktop\2019SON\Yapay Zeka\LVQ_ WITH_MNIST\LVQ_ WITH_MNIST\obj\Debug\LVQ_ WITH_MNIST.csproj.GenerateResource.cache
+C:\Users\HASAN\Desktop\2019SON\Yapay Zeka\LVQ_ WITH_MNIST\LVQ_ WITH_MNIST\obj\Debug\LVQ_ WITH_MNIST.csproj.CoreCompileInputs.cache
+C:\Users\HASAN\Desktop\2019SON\Yapay Zeka\LVQ_ WITH_MNIST\LVQ_ WITH_MNIST\obj\Debug\LVQ_ WITH_MNIST.exe
+C:\Users\HASAN\Desktop\2019SON\Yapay Zeka\LVQ_ WITH_MNIST\LVQ_ WITH_MNIST\obj\Debug\LVQ_ WITH_MNIST.pdb
+C:\Users\HASAN\Desktop\2019SON\Yapay Zeka\LVQ_ WITH_MNIST\LVQ_ WITH_MNIST\obj\Debug\LVQ__WITH_MNIST.Main.resources
